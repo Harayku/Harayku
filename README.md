@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harayku</h1>
 <h3 align="center">A Student from Philippines</h3>
 
-<p align="left"> <a href="https://github.com/Harayku/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github" alt="github" /></a> </p>
-<p align="left"> <a href = "https://github-profile-trophy.vercel.app/?username=Harayku&theme=onedark"> <img src= "https://github.com/Harayku/github-profile-trophy" /> </a> </p>
 
+<br>
+<p align="left"> <a href = "https://github-profile-trophy.vercel.app/?username=Harayku&theme=onedark"> <img src= "https://github.com/Harayku/github-profile-trophy" /> </a> </p>
+<br><br><br>
 - 🌱 I’m currently learning **Networking, WebDev, Database**
 
 <h3 align="left">Connect with me:</h3>
