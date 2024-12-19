@@ -59,7 +59,7 @@
         <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="photoshop" width="40" height="40"/> 
     </a> 
     <a href = "https://www.cisco.com/" target = "_blank" rel = "norefferer">
-        <img src = "https://commons.wikimedia.org/wiki/File:Cisco_logo-1000px.png" alt = "cisco" width = "40" height = "40"/>
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/2560px-Cisco_logo_blue_2016.svg.png" alt = "cisco" width = "40" height = "40"/>
     </a>
 </p>
 
