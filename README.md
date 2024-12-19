@@ -7,7 +7,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=Harayku&theme=onedark" alt="GitHub Profile Trophy">
     </a>
 </p>
-- 🌱 I’m currently learning **Networking, WebDev, Database**
+- 🌱 I’m currently learning **Networking, WebDev, Database, Multimedia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,6 +61,9 @@
     <a href = "https://www.cisco.com/" target = "_blank" rel = "norefferer">
         <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/2560px-Cisco_logo_blue_2016.svg.png" alt = "cisco" width = "40" height = "40"/>
     </a>
+<a href = "https://www.office.com/" target = "_blank" rel = "norefferer">
+<img src = "https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt = "document" width = "40" height = "40"/>
+</a>
 </p>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=github&show_icons=true&locale=en&layout=compact" alt="github" /></p>
