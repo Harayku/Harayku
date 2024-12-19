@@ -1,14 +1,4 @@
-- 👋 Hi, I’m @Harayku
-- 👀 I’m interested in All Tech Field
-- 🌱 I’m currently learning C#, Data Structure and Algorithm, Networking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord Harayku#harayku
-- 😄 Pronouns: Skibid Dragon
-- ⚡ Fun fact: ...
-
 <h2 align="left">Hi 👋! My name is Harayku </h2>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
