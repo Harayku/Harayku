@@ -64,6 +64,12 @@
 <a href = "https://www.office.com/" target = "_blank" rel = "norefferer">
 <img src = "https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt = "document" width = "40" height = "40"/>
 </a>
+<a href = "https://www.office.com/" target = "_blank" rel = "norefferer">
+<img src = "https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt = "Slideshow" width = "40" height = "40"/>
+</a>
+<a href = "https://www.office.com/" target = "_blank" rel = "norefferer">
+<img src = "https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt = "Spreadsheet" width = "40" height = "40"/>
+</a>
 </p>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=github&show_icons=true&locale=en&layout=compact" alt="github" /></p>
