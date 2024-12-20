@@ -47,15 +47,6 @@
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
     </a> 
-    <a href = "https://www.office.com/" target = "_blank" rel = "norefferer">
-        <img src = "https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt = "document" width = "40" height = "40"/>
-    </a>
-    <a href = "https://www.office.com/" target = "_blank" rel = "norefferer">
-        <img src = "https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt = "Slideshow" width = "40" height = "40"/>
-    </a>
-    <a href = "https://www.office.com/" target = "_blank" rel = "norefferer">
-        <img src = "https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt = "Spreadsheet" width = "40" height = "40"/>
-    </a>
 </p>
 
 <h3 align="left">Multimedia:</h3>
@@ -68,6 +59,9 @@
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
         <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="photoshop" width="40" height="40"/> 
+    </a>
+    <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://freepnglogo.com/canva-logo-png" alt="photoshop" width="40" height="40"/> 
     </a> 
 </p>
 
@@ -76,13 +70,29 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a> 
+    <a href="https://www.microsoft.com/en-us/windows/?r=1" target="_blank" rel="noreferrer"> 
+        <img src="https://www.pngall.com/windows-logo-png/" alt="linux" width="40" height="40"/> 
+    </a>
 </p>
 
 <h3 align="left">Networking:</h3>
+<p align="left"> 
     <a href = "https://www.cisco.com/" target = "_blank" rel = "norefferer">
         <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/2560px-Cisco_logo_blue_2016.svg.png" alt = "cisco" width = "40" height = "40"/>
     </a>
+</p>
+
+<h3 align="left">Utilities Software:</h3>
 <p align="left"> 
+    <a href = "https://www.office.com/" target = "_blank" rel = "norefferer">
+        <img src = "https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt = "document" width = "40" height = "40"/>
+    </a>
+    <a href = "https://www.office.com/" target = "_blank" rel = "norefferer">
+        <img src = "https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt = "Slideshow" width = "40" height = "40"/>
+    </a>
+    <a href = "https://www.office.com/" target = "_blank" rel = "norefferer">
+        <img src = "https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt = "Spreadsheet" width = "40" height = "40"/>
+    </a>
 </p>
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=github&show_icons=true&locale=en&layout=compact" alt="github" /></p>
 
