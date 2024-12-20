@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/jet-angelo-pagaduan-537a3a342/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/jetangelo.pagaduan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://www.instagram.com/haraykuu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@harayku04" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2019/08/tiktok-logo-0-1.png" alt="tiktok" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@harayku04" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2019/08/tiktok-logo-0-1.png" alt="tiktok" height="35" width="45" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
