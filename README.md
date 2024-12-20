@@ -61,7 +61,7 @@
         <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="photoshop" width="40" height="40"/> 
     </a>
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://freepnglogo.com/canva-logo-png" alt="photoshop" width="40" height="40"/> 
+        <img src="https://freepnglogo.com/canva-logo-png" alt="Canva" width="40" height="40"/> 
     </a> 
 </p>
 
@@ -71,7 +71,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a> 
     <a href="https://www.microsoft.com/en-us/windows/?r=1" target="_blank" rel="noreferrer"> 
-        <img src="https://www.pngall.com/windows-logo-png/" alt="linux" width="40" height="40"/> 
+        <img src="https://www.pngall.com/wp-content/uploads/2/Windows-Logo-PNG-Pic.png" alt="windows" width="40" height="40"/> 
     </a>
 </p>
 
