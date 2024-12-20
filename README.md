@@ -61,7 +61,7 @@
         <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="photoshop" width="40" height="40"/> 
     </a>
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://freepnglogo.com/canva-logo-png" alt="Canva" width="40" height="40"/> 
+        <img src="https://imgs.search.brave.com/gAmpRkVnmc780FDrCM1Y_kZV6HlXDCp6hj3Is2Rmnik/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY1NjczMzYz/N2xvZ28tY2FudmEt/cG5nLnBuZw" alt="Canva" width="40" height="40"/> 
     </a> 
 </p>
 
