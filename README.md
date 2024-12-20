@@ -88,10 +88,10 @@
         <img src = "https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt = "document" width = "40" height = "40"/>
     </a>
     <a href = "https://www.office.com/" target = "_blank" rel = "norefferer">
-        <img src = "https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt = "Slideshow" width = "40" height = "40"/>
+        <img src = "https://imgs.search.brave.com/P-49jpzSDfwTHHD44hMsUp2etb7lImjp7VHeJR7G3SM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA0L21pY3Jvc29m/dC1wb3dlcnBvaW50/LWxvZ28tMC5wbmc" alt = "Slideshow" width = "40" height = "40"/>
     </a>
     <a href = "https://www.office.com/" target = "_blank" rel = "norefferer">
-        <img src = "https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt = "Spreadsheet" width = "40" height = "40"/>
+        <img src = "https://imgs.search.brave.com/4HUDi-VTmEYFZUCDTa6Ci9OBIvVkcmm5xF8_99XXZuk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA0L2V4Y2VsLWxv/Z28ucG5n" alt = "Spreadsheet" width = "40" height = "40"/>
     </a>
 </p>
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=github&show_icons=true&locale=en&layout=compact" alt="github" /></p>
