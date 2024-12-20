@@ -63,6 +63,9 @@
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
         <img src="https://imgs.search.brave.com/gAmpRkVnmc780FDrCM1Y_kZV6HlXDCp6hj3Is2Rmnik/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY1NjczMzYz/N2xvZ28tY2FudmEt/cG5nLnBuZw" alt="Canva" width="40" height="40"/> 
     </a> 
+    <a href="https://www.capcut.com/tools/desktop-video-editor" target="_blank" rel="noreferrer"> 
+        <img src="https://imgs.search.brave.com/voiAustzg0Xc_VlWBdfA__rtDFIB9b6Pe4J92RX1q6k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY2NDI4NDgz/NmNhcC1jdXQtbG9n/by1wbmcucG5n" alt="Canva" width="40" height="40"/> 
+    </a> 
 </p>
 
 <h3 align="left">Operating System:</h3>
