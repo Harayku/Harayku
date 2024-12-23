@@ -7,7 +7,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=Harayku&theme=onedark" alt="GitHub Profile Trophy">
     </a>
 </p>
-- 🌱 I’m currently learning **Networking, WebDev, Database, Multimedia**
+- 🌱 I’m currently learning **Networking, WebDev, Database, Multimedia, PC troubleshooting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
