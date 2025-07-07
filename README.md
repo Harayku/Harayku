@@ -69,6 +69,9 @@
     <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> 
         <img src="https://imgs.search.brave.com/bbwNaIlOw-N0FF74YHmYwlzHQysXg1yiJAhrqG1M5AY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzY5L0xvZ29fQXNl/cHJpdGUuc3Zn" alt="Aseprite" width="40" height="40"/> 
     </a> 
+    <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="[https://imgs.search.brave.com/bbwNaIlOw-N0FF74YHmYwlzHQysXg1yiJAhrqG1M5AY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzY5L0xvZ29fQXNl/cHJpdGUuc3Zn](https://freebiesupply.com/logos/laravel-logo-2/)" alt="Aseprite" width="40" height="40"/> 
+    </a> 
 
 </p>
 
