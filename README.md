@@ -18,7 +18,7 @@
 <a href="https://www.tiktok.com/@harayku04" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2019/08/tiktok-logo-0-1.png" alt="tiktok" height="35" width="45" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages/Frameworks:</h3>
 <p align="left"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -47,6 +47,18 @@
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
     </a> 
+    <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://logodix.com/logo/1625715.png" alt="PHP" width="40" height="40"/> 
+    </a> 
+    <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://imgs.search.brave.com/Y3ab2sIA1AVWYc3eSr1kRbkNJqoI0Mwy4mrmKvMoySk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bGlibG9nby5jb20v/aW1nLWxvZ28vbGEy/NTBsNWVjLWxhcmF2/ZWwtbG9nby1sYXJh/dmVsLWxvZ28tdHJh/bnNwYXJlbnQtcG5n/LXN0aWNrcG5nLnBu/Zw" alt="Laravel" width="40" height="40"/> 
+    </a>
+    <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://imgs.search.brave.com/J5ZJpufpGgK-ocafTsJe_pyuSb83B4XSSXsEw0ocT6M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzM1LzIvdGFpbHdp/bmQtY3NzLWxvZ28t/cG5nX3NlZWtsb2dv/LTM1NDY3NS5wbmc" alt="Tailwind" width="40" height="40"/> 
+    </a>
+     <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://imgs.search.brave.com/g2XhhqtD6oUws0qZlJhb67CWXYq752Q0CrzbiqVm29w/rs:fit:860:0:0:0/g:ce/aHR0cDovL3BuZ2lt/Zy5jb20vdXBsb2Fk/cy9teXNxbC9teXNx/bF9QTkcyMy5wbmc" alt="Mysql" width="40" height="40"/> 
+    </a> 
 </p>
 
 <h3 align="left">Multimedia:</h3>
@@ -68,11 +80,19 @@
     </a> 
     <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> 
         <img src="https://imgs.search.brave.com/bbwNaIlOw-N0FF74YHmYwlzHQysXg1yiJAhrqG1M5AY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzY5L0xvZ29fQXNl/cHJpdGUuc3Zn" alt="Aseprite" width="40" height="40"/> 
-    </a> 
+    </a>
     <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://imgs.search.brave.com/bbwNaIlOw-N0FF74YHmYwlzHQysXg1yiJAhrqG1M5AY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzY5L0xvZ29fQXNl/cHJpdGUuc3Zn](https://freebiesupply.com/logos/laravel-logo-2" alt="Aseprite" width="40" height="40"/> 
+        <img src="https://imgs.search.brave.com/Pg0ep_sfnDbY_-ip-jUBIWeGJhQTaK2r6I6iAAoigkg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/Ym5haWwuaW1nYmlu/LmNvbS80LzE4LzEv/aW1nYmluLWF1dG9k/ZXNrLXNrZXRjaGJv/b2stcHJvLWRyYXdp/bmctYXBwcy1hbmRy/b2lkLXg3a1dMa0FD/Vm42NEpScDJ0Vzc0/RjNXUXdfdC5qcGc" alt="SketchBook-Pro" width="40" height="40"/> 
     </a> 
-
+        <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://imgs.search.brave.com/U3ErUGx53ip5JyyjhKh2ENoox2r46llqx1kV8Yim9Lw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzM4LzIvYWRvYmUt/cHJlbWllcmUtbG9n/by1wbmdfc2Vla2xv/Z28tMzgwNzg5LnBu/Zw" alt="Premiere" width="40" height="40"/> 
+    </a> 
+        <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://imgs.search.brave.com/FPsDDum02n5zxc6F3lQen19vz3nCXXDEcYMhlpum0gs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWFkb2JlLWFmdGVy/LWVmZmVjdHMtbG9n/by1pY29uLWRvd25s/b2FkLWluLXN2Zy1w/bmctZ2lmLWZpbGUt/Zm9ybWF0cy0tbG9n/b3MtaWNvbnMtMjc0/NjUzMi5wbmc_Zj13/ZWJwJnc9MTI4" alt="After-Effects" width="40" height="40"/> 
+    </a>
+        <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://imgs.search.brave.com/F2NazXN5ecYu2_hku_ERu2XhrmEFpLCLzc2lOu-BXR4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuY2RubG9nby5j/b20vbG9nb3MvYS8y/My9hZG9iZS1jaGFy/YWN0ZXItYW5pbWF0/b3ItY2Muc3Zn" alt="Character" width="40" height="40"/> 
+    </a> 
 </p>
 
 <h3 align="left">Operating System:</h3>
@@ -82,6 +102,9 @@
     </a> 
     <a href="https://www.microsoft.com/en-us/windows/?r=1" target="_blank" rel="noreferrer"> 
         <img src="https://www.pngall.com/wp-content/uploads/2/Windows-Logo-PNG-Pic.png" alt="windows" width="40" height="40"/> 
+    </a>
+    <a href="https://www.microsoft.com/en-us/windows/?r=1" target="_blank" rel="noreferrer"> 
+        <img src="https://imgs.search.brave.com/xmOYSlOaRQ1PnHCvkq1s1zkumlekYzBCRx8YsnBXO_w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL0sva2FsaS1s/aW51eC1sb2dvLTkz/MDI3QzU3QkQtc2Vl/a2xvZ28uY29tLnBu/Zw" alt="Kali-Linux" width="40" height="40"/> 
     </a>
 </p>
 
